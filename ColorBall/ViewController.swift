@@ -22,6 +22,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 		// Show statistics such as fps and timing information
 		sceneView.showsStatistics = true
 		
+		sceneView.autoenablesDefaultLighting = true
+		
 		// Create a new scene
 		let scene = SCNScene()
 		
