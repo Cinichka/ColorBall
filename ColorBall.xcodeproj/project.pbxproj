@@ -13,6 +13,7 @@
 		9F53238A2152DE69001D57C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F5323882152DE69001D57C1 /* Main.storyboard */; };
 		9F53238C2152DE6A001D57C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F53238B2152DE6A001D57C1 /* Assets.xcassets */; };
 		9F53238F2152DE6A001D57C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F53238D2152DE6A001D57C1 /* LaunchScreen.storyboard */; };
+		9F5323972152DECF001D57C1 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5323962152DECF001D57C1 /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9F53238B2152DE6A001D57C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F53238E2152DE6A001D57C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F5323902152DE6A001D57C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F5323962152DECF001D57C1 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9F5323822152DE69001D57C1 /* AppDelegate.swift */,
 				9F5323842152DE69001D57C1 /* art.scnassets */,
 				9F5323862152DE69001D57C1 /* ViewController.swift */,
+				9F5323962152DECF001D57C1 /* Color.swift */,
 				9F5323882152DE69001D57C1 /* Main.storyboard */,
 				9F53238B2152DE6A001D57C1 /* Assets.xcassets */,
 				9F53238D2152DE6A001D57C1 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				9F5323872152DE69001D57C1 /* ViewController.swift in Sources */,
 				9F5323832152DE69001D57C1 /* AppDelegate.swift in Sources */,
+				9F5323972152DECF001D57C1 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
